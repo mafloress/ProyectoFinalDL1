@@ -1,5 +1,16 @@
 # Proyecto de Clasificación de Campañas de Marketing Bancario con Deep Learning
 
+
+## Uso de LLMs y Agentes IA
+Se utilizaron los siguientes LLMs para poder tomar ideas para tomar la base del proyecto y buscar fuentes reales de datos para el proyecto, se hizo la comparativa entre cada respuesta de cada uno y se escogío la mas ad hoc:
+- Gemini
+- Copilot
+- Deepseek
+- ChatGPT
+
+Se utilizó adicional para documentación e implementación en Github:
+- Jules Google
+  
 ## Objetivo del Proyecto
 
 *   Desarrollar un servicio de predicción batch para clasificar el éxito de las campañas de marketing directo de una entidad bancaria utilizando modelos de deep learning.
